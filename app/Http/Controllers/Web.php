@@ -10,5 +10,5 @@ class Web extends Controller
     {
         return view("web");
     }
-    
+    //Hello From Web
 }
